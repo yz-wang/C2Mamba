@@ -1,6 +1,6 @@
 ## C2Mamba
 
-# Code for C^2Mamba: Harmonizing CLIP Semantics and Color Balance for Efficient Image Dehazing
+# Code for C^2^Mamba: Harmonizing CLIP Semantics and Color Balance for Efficient Image Dehazing
 
 This implementation is written by Yongzhen Wang and Ding Huang at Anhui University of Technology.
 
